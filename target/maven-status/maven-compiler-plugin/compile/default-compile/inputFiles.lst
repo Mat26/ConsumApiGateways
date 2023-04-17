@@ -1,0 +1,12 @@
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\model\GatewayType.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\model\Status.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\apigateway\GatewayConnectionService.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\connectionstrategy\PaypalConnection.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\ApiGatewayFactoryApplication.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\model\RequestStatus.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\apigateway\GatewayConnectionFactory.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\connectionstrategy\StripeConnection.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\controller\test.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\model\Charge.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\connectionstrategy\GatewayConnectionStrategy.java
+C:\Users\mtrujillo\IdeaProjects\Personal\ConsumApiGateways\src\main\java\com\apigatewayfactory\demo\model\ChargeResponse.java
